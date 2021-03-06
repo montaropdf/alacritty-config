@@ -1,0 +1,12 @@
+#+TITLE: alacritty-config
+
+*WARNING*: The ZSH configuration has been moved to https://github.com/montaropdf/dotfiles.git.
+
+The repository will not be update anymore.
+
+---------
+
+
+
+
+Mirror of my alacritty configuration
